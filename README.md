@@ -36,8 +36,8 @@ Python developer building full-stack skills, eager to contribute to projects tha
 ### School Projects
 * [The Dark Sanctuary](https://github.com/LarkaFenrir/The_Dark_Sanctuary) — Website for a fictional bat sanctuary
 * [Amazon expenses tracker](https://github.com/LarkaFenrir/amazon_project_2.0) — CLI app to track expenses efficiently
-* [Exomarket](https://github.com/LarkaFenrir/Exomarket) — Mini full-stack project using Django Templates for a dynamic web interface.
+* [Exomarket](https://github.com/LarkaFenrir/Exomarket) — Mini full-stack project using Django Templates for a dynamic web interface
 * [Todo (API)](https://github.com/LarkaFenrir/Todo_APIs) — Todo API app for managing personal tasks
-* [IdeaCloud](https://github.com/LarkaFenrir/IdeaCloud) (🤝 group project) — Platform designed to connect visions and skills.
+* [IdeaCloud](https://github.com/LarkaFenrir/IdeaCloud) (🤝 group project) — Platform designed to connect visions and skills
 ### Personal Projects
 * [The Leash You Can Do](https://github.com/LarkaFenrir/The-Leash-You-Can-Do) (🛠️ work in progress) — App designed to help shelters connect with future adopters of pets
