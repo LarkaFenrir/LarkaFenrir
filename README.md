@@ -41,3 +41,5 @@ Python developer building full-stack skills, eager to contribute to projects tha
 * [IdeaCloud](https://github.com/LarkaFenrir/IdeaCloud) (🤝 group project) — Platform designed to connect visions and skills
 ### Personal Projects
 * [The Leash You Can Do](https://github.com/LarkaFenrir/The-Leash-You-Can-Do) (🛠️ work in progress) — App designed to help shelters connect with future adopters of pets
+---
+![LarkaFenrir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LarkaFenrir&show_icons=true&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LarkaFenrir&layout=compact&theme=dark)
