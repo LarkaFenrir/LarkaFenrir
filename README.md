@@ -31,30 +31,40 @@ Python developer building full-stack skills, eager to contribute to projects tha
 ### Databases: ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ### Web Frameworks & APIs: ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ### Version Control & Tools: ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 ---
 ### 🧭 Professional Path & Continuous Learning  
 _Combining intensive backend certification with industry-leading full-stack curricula._  
 \
 ✅ Completed: [**Digital Career Institute (DCI)**](https://digitalcareerinstitute.org/en/)  
-_Professional Backend Python & Django Intensive_  
+_Professional Back-end Python & Django Intensive_  
 \
 ⚡ In progress: [**The Odin Project**](https://www.theodinproject.com)  
 _Full-stack architecture & JavaScript logic_  
 \
 ⚡ In progress: [**FreeCodeCamp**](https://www.freecodecamp.org/)  
-_Comprehensive mastery of full-stack development, data structures, and industry-standard certifications_  
+_Comprehensive mastery of full-stack development, and industry-standard certifications_  
 \
 🔜 Up Next: [**Full Stack Open**](https://fullstackopen.com/en/)  
 _Advanced React & Production-ready Web Apps_  
 
 ---
 ## 🚀 Projects
-⭐ [The Leash You Can Do](https://github.com/LarkaFenrir/the-leash-you-can-do) (🛠️ work in progress) — Full-stack app connecting animal shelters with adopters  
-⭐ [IdeaCloud](https://github.com/LarkaFenrir/idea-cloud) (🤝 group project) — Led front-end development for a collaborative platform connecting users and ideas
-* [Exomarket](https://github.com/LarkaFenrir/exo-market) — Mini full-stack web app using Django Templates for a dynamic interface
-* [Todo API](https://github.com/LarkaFenrir/todo-api) — REST API for managing personal tasks efficiently
+⭐ [**The Leash You Can Do**](https://github.com/LarkaFenrir/the-leash-you-can-do) (🛠️ work in progress)  
+_Full-stack app connecting animal shelters with adopters and volunteers_  
+\
+⭐ [**IdeaCloud**](https://github.com/LarkaFenrir/idea-cloud) (🤝 group project)  
+_Collaborative platform connecting users and ideas. I led the front-end development of the project._  
+* [**Exomarket**](https://github.com/LarkaFenrir/exo-market)  
+_Mini full-stack web app using Django Templates for a dynamic interface_  
+* [**Todo API**](https://github.com/LarkaFenrir/todo-api)  
+_REST API for managing personal tasks efficiently_  
+
 ### Other Projects
-* [Amazon expenses tracker](https://github.com/LarkaFenrir/amazon-expenses-tracker) — Python CLI app for tracking expenses
-* [The Dark Sanctuary](https://github.com/LarkaFenrir/the-dark-sanctuary) — Static website for a fictional bat sanctuary, deployed on GitHub Pages
+* [**Amazon expenses tracker**](https://github.com/LarkaFenrir/amazon-expenses-tracker)  
+_Python CLI app for tracking expenses_  
+* [**The Dark Sanctuary**](https://github.com/LarkaFenrir/the-dark-sanctuary)  
+_My first static website for a fictional bat sanctuary, deployed on GitHub Pages_
+
 ---
 ![LarkaFenrir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LarkaFenrir&show_icons=true&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LarkaFenrir&layout=compact&theme=dark)
