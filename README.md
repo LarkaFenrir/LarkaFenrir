@@ -32,12 +32,21 @@ Python developer building full-stack skills, eager to contribute to projects tha
 ### Web Frameworks & APIs: ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ### Version Control & Tools: ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ---
-## 🌱 Currently Learning
-- Advanced **Django** and **Python** patterns  
-- **JavaScript** and modern web development  
-- **Databases** & data structures  
-- **Algorithms** and problem-solving for technical interviews  
-- **Git** and version control best practices
+### 🧭 Professional Path & Continuous Learning  
+_Combining intensive backend certification with industry-leading full-stack curricula._  
+\
+✅ Completed: [**Digital Career Institute (DCI)**](https://digitalcareerinstitute.org/en/)  
+_Professional Backend Python & Django Intensive_  
+\
+⚡ In progress: [**The Odin Project**](https://www.theodinproject.com)  
+_Full-stack architecture & JavaScript logic_  
+\
+⚡ In progress: [**FreeCodeCamp**](https://www.freecodecamp.org/)  
+_Comprehensive mastery of full-stack development, data structures, and industry-standard certifications_  
+\
+🔜 Up Next: [**Full Stack Open**](https://fullstackopen.com/en/)  
+_Advanced React & Production-ready Web Apps_  
+
 ---
 ## 🚀 Projects
 ⭐ [The Leash You Can Do](https://github.com/LarkaFenrir/the-leash-you-can-do) (🛠️ work in progress) — Full-stack app connecting animal shelters with adopters  
