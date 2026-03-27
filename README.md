@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Python developer building full-stack skills, eager to contribute to projects that advance animal welfare and environmental sustainability.
+Python developer building full-stack skills, eager to contribute to projects aimed at ending animal exploitation and promoting environmental sustainability.
   
   
 🌱 vegan since 2013  
-🐾 animal welfare  
+🐾 animal rights  
 🌿 environmental sustainability
 
 \
