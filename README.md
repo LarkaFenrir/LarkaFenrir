@@ -67,4 +67,4 @@ _Python CLI app for tracking expenses_
 _My first static website for a fictional bat sanctuary, deployed on GitHub Pages_
 
 ---
-![LarkaFenrir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LarkaFenrir&show_icons=true&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LarkaFenrir&layout=compact&theme=dark)
+![LarkaFenrir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LarkaFenrir&show_icons=true&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LarkaFenrir&layout=compact&theme=dark) ![](https://komarev.com/ghpvc/?username=LarkaFenrir)
