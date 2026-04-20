@@ -23,6 +23,9 @@ Python developer building full-stack skills, eager to contribute to projects aim
 🌿 environmental sustainability
 
 \
+Founder of [Karhun Henki](https://github.com/LarkaFenrir/karhun-henki) - A mission-driven initiative to empower the defenseless.
+
+\
 📫 Open to internships and collaborations - feel free to reach out via [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/martina-colombo-720037398/)
 
 ---
@@ -50,6 +53,9 @@ _Advanced React & Production-ready Web Apps_
 
 ---
 ## 🚀 Projects
+⭐ [**The Glass Walls Project**](https://github.com/LarkaFenrir/karhun-henki/tree/main/the-glass-walls-project) (🛠️ work in progress)  
+_Interactive map to track locations and violations of slaughterhouses around the world_
+
 ⭐ [**The Leash You Can Do**](https://github.com/LarkaFenrir/the-leash-you-can-do) (🛠️ work in progress)  
 _Full-stack app connecting animal shelters with adopters and volunteers_  
 \
