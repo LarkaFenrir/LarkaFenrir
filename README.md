@@ -39,17 +39,17 @@ Founder of [Karhun Henki](https://github.com/LarkaFenrir/karhun-henki) - A missi
 ### 🧭 Professional Path & Continuous Learning  
 _Combining intensive backend certification with industry-leading full-stack curricula._  
 \
-✅ Completed: [**Digital Career Institute (DCI)**](https://digitalcareerinstitute.org/en/)  
-_Professional Back-end Python & Django Intensive_  
+✅ Completed: [**Digital Career Institute (DCI)**](https://digitalcareerinstitute.org/en/) | [**Certification**](https://media.licdn.com/dms/image/v2/D4D2DAQFvR1N5nqzcVA/profile-treasury-document-images_1280/B4DZ2vaQSMKQAU-/2/1776764390318?e=1777507200&v=beta&t=YpsGYGsMnx_s83TdCz3vJvStbI_dFO7Uq4pugsZ0wjk)   
+_Completed 1,930 units of intensive training in Python, Django, and PostgreSQL. Focused on Object-Oriented Programming, REST APIs, and database design within an Agile team environment._  
 \
 ⚡ In progress: [**The Odin Project**](https://www.theodinproject.com)  
-_Full-stack architecture & JavaScript logic_  
+_Full-Stack Development: JavaScript logic and web application architecture_  
 \
 ⚡ In progress: [**FreeCodeCamp**](https://www.freecodecamp.org/)  
-_Comprehensive mastery of full-stack development, and industry-standard certifications_  
+_Foundational Web Development: Industry-standard certifications and core coding practices⁠_  
 \
 🔜 Up Next: [**Full Stack Open**](https://fullstackopen.com/en/)  
-_Advanced React & Production-ready Web Apps_  
+_Deep dive into modern web architecture, connecting robust Back-Ends with React, Redux, and GraphQL._  
 
 ---
 ## 🚀 Projects
