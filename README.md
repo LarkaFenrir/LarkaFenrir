@@ -39,7 +39,7 @@ Founder of [**_Karhun Henki_**](https://github.com/LarkaFenrir/karhun-henki) - A
 ### 🧭 Professional Path & Continuous Learning  
 _Combining intensive backend certification with industry-leading full-stack curricula._  
 \
-✅ Completed: [**Digital Career Institute (DCI)**](https://digitalcareerinstitute.org/en/) | [**Certification**](https://media.licdn.com/dms/image/v2/D4D2DAQFvR1N5nqzcVA/profile-treasury-document-images_1280/B4DZ2vaQSMKQAU-/2/1776764390318?e=1777507200&v=beta&t=YpsGYGsMnx_s83TdCz3vJvStbI_dFO7Uq4pugsZ0wjk)   
+✅ Completed: [**Digital Career Institute (DCI)**](https://digitalcareerinstitute.org/en/) | [**Certification**](https://github.com/LarkaFenrir/LarkaFenrir/blob/main/DCI_Certificate_DE_ENG.pdf)   
 _Completed 1,930 units of intensive training in Python, Django, and PostgreSQL. Focused on Object-Oriented Programming, REST APIs, and database design within an Agile team environment._  
 \
 ⚡ In progress: [**The Odin Project**](https://www.theodinproject.com)  
