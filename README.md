@@ -40,7 +40,7 @@ Founder of [**_Karhun Henki_**](https://github.com/LarkaFenrir/karhun-henki) - A
 _Combining intensive backend certification with industry-leading full-stack curricula._  
 \
 ✅ Completed: [**Digital Career Institute (DCI)**](https://digitalcareerinstitute.org/en/) | [**Certification**](https://github.com/LarkaFenrir/LarkaFenrir/blob/main/DCI_Certificate_DE_ENG.pdf)   
-_Completed 1,930 units of intensive training in Python, Django, and PostgreSQL. Focused on Object-Oriented Programming, REST APIs, and database design within an Agile team environment._  
+_Completed 1,930 units of intensive training in Python, Django, and PostgreSQL. Focused on Object-Oriented Programming, REST APIs, and database design within an Agile team environment_  
 \
 ⚡ In progress: [**The Odin Project**](https://www.theodinproject.com)  
 _Full-Stack Development: JavaScript logic and web application architecture_  
@@ -49,7 +49,14 @@ _Full-Stack Development: JavaScript logic and web application architecture_
 _Foundational Web Development: Industry-standard certifications and core coding practices⁠_  
 \
 🔜 Up Next: [**Full Stack Open**](https://fullstackopen.com/en/)  
-_Deep dive into modern web architecture, connecting robust Back-Ends with React, Redux, and GraphQL._  
+_Deep dive into modern web architecture, connecting robust Back-Ends with React, Redux, and GraphQL_  
+
+---
+### 🌱 Impact & Advocacy Education   
+_Aligning technical skillsets with strategic animal protection and non-profit operations._   
+
+✅ Completed: [**Animal Advocacy Careers online course**](https://animaladvocacycareers.org/) | [**Certification**](https://github.com/LarkaFenrir/LarkaFenrir/blob/main/Animal_Advocacy_Careers_Certificate.pdf)   
+_Foundational training focused on high-impact career strategy, cost-effective interventions, and maximizing personal social impact for animal protection_   
 
 ---
 ## 🚀 Projects
