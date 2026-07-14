@@ -15,15 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Python developer building full-stack skills, eager to contribute to projects aimed at ending animal exploitation and promoting environmental sustainability.
+Back-end developer building full-stack skills, eager to support projects dedicated to ending animal exploitation, defending animal rights, and promoting environmental sustainability.
   
   
 🌱 vegan since 2013  
-🐾 animal rights  
-🌿 environmental sustainability
+🌱 mission-driven developer  
 
 \
-Founder of [**_Karhun Henki_**](https://github.com/LarkaFenrir/karhun-henki).
+Founder of [**_Karhun Henki_**](https://github.com/LarkaFenrir/karhun-henki) - a grassroots advocacy initiative.
 
 \
 📫 Open to internships and collaborations - feel free to reach out via [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/martina-colombo-720037398/)
@@ -61,7 +60,7 @@ _Foundational training focused on high-impact career strategy, cost-effective in
 ---
 ## 🚀 Projects
 
-### [**_Karhun Henki_**](https://github.com/LarkaFenrir/karhun-henki) - Grassroots Advocacy Initiative
+### [**_Karhun Henki_**](https://github.com/LarkaFenrir/karhun-henki)
 
 
 ⭐ [**The Glass Walls Project**](https://github.com/LarkaFenrir/the-glass-walls-project) (🛠️ work in progress)  
