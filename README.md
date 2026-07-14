@@ -23,7 +23,7 @@ Python developer building full-stack skills, eager to contribute to projects aim
 🌿 environmental sustainability
 
 \
-Founder of [**_Karhun Henki_**](https://github.com/LarkaFenrir/karhun-henki) - A mission-driven initiative to empower the defenseless.
+Founder of [**_Karhun Henki_**](https://github.com/LarkaFenrir/karhun-henki).
 
 \
 📫 Open to internships and collaborations - feel free to reach out via [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/martina-colombo-720037398/)
@@ -36,7 +36,7 @@ Founder of [**_Karhun Henki_**](https://github.com/LarkaFenrir/karhun-henki) - A
 ### Version Control & Tools: ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-### 🧭 Professional Path & Continuous Learning  
+## 🧭 Professional Path & Continuous Learning  
 _Combining intensive backend certification with industry-leading full-stack curricula._  
 \
 ✅ Completed: [**Digital Career Institute (DCI)**](https://digitalcareerinstitute.org/en/) | [**Certification**](https://github.com/LarkaFenrir/LarkaFenrir/blob/main/DCI_Certificate_DE_ENG.pdf)   
@@ -52,7 +52,7 @@ _Foundational Web Development: Industry-standard certifications and core coding 
 _Deep dive into modern web architecture, connecting robust Back-Ends with React, Redux, and GraphQL_  
 
 ---
-### 🌱 Impact & Advocacy Education   
+## 🌱 Impact & Advocacy Education   
 _Aligning technical skillsets with strategic animal protection and non-profit operations._   
 
 ✅ Completed: [**Animal Advocacy Careers online course**](https://animaladvocacycareers.org/) | [**Certification**](https://github.com/LarkaFenrir/LarkaFenrir/blob/main/Animal_Advocacy_Careers_Certificate.pdf)   
@@ -60,23 +60,30 @@ _Foundational training focused on high-impact career strategy, cost-effective in
 
 ---
 ## 🚀 Projects
+
+### [**_Karhun Henki_**](https://github.com/LarkaFenrir/karhun-henki) - Grassroots Advocacy Initiative
+
+
 ⭐ [**The Glass Walls Project**](https://github.com/LarkaFenrir/the-glass-walls-project) (🛠️ work in progress)  
 _Interactive map to track locations and violations of slaughterhouses around the world_
 
 ⭐ [**The Leash You Can Do**](https://github.com/LarkaFenrir/the-leash-you-can-do) (🛠️ work in progress)  
 _Full-stack app connecting animal shelters with adopters and volunteers_  
-\
-⭐ [**IdeaCloud**](https://github.com/LarkaFenrir/idea-cloud) (🤝 group project)  
-_Collaborative platform connecting users and ideas. I led the front-end development of the project._  
-* [**Exomarket**](https://github.com/LarkaFenrir/exo-market)  
-_Mini full-stack web app using Django Templates for a dynamic interface_  
-* [**Todo API**](https://github.com/LarkaFenrir/todo-api)  
-_REST API for managing personal tasks efficiently_  
 
 ### Other Projects
-* [**Amazon expenses tracker**](https://github.com/LarkaFenrir/amazon-expenses-tracker)  
+⭐ [**IdeaCloud**](https://github.com/LarkaFenrir/idea-cloud) (🤝 group project)  
+_Collaborative platform connecting users and ideas. I led the front-end development of the project._  
+\
+[**Exomarket**](https://github.com/LarkaFenrir/exo-market)  
+_Mini full-stack web app using Django Templates for a dynamic interface_  
+\
+[**Todo API**](https://github.com/LarkaFenrir/todo-api)  
+_REST API for managing personal tasks efficiently_  
+\
+[**Amazon expenses tracker**](https://github.com/LarkaFenrir/amazon-expenses-tracker)  
 _Python CLI app for tracking expenses_  
-* [**The Dark Sanctuary**](https://github.com/LarkaFenrir/the-dark-sanctuary)  
+\
+[**The Dark Sanctuary**](https://github.com/LarkaFenrir/the-dark-sanctuary)  
 _My first static website for a fictional bat sanctuary, deployed on GitHub Pages_
 
 ---
