@@ -24,9 +24,6 @@ Back-end developer building full-stack skills, eager to support projects dedicat
 \
 Founder of [**_Karhun Henki_**](https://github.com/LarkaFenrir/karhun-henki) - a grassroots advocacy initiative.
 
-\
-📫 Open to internships and collaborations - feel free to reach out via [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/martina-colombo-720037398/)
-
 ---
 ## 💾 Tech Stack
 ### Languages: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
